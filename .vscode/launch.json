@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Filter",
+            "request": "launch",
+            "mainClass": "StreamApi.Filter",
+            "projectName": "JAVA_d1ac903d"
+        },
+        {
+            "type": "java",
+            "name": "forEach",
+            "request": "launch",
+            "mainClass": "StreamApi.forEach",
+            "projectName": "JAVA_d1ac903d"
+        },
+        {
+            "type": "java",
+            "name": "for_Each",
+            "request": "launch",
+            "mainClass": "StreamApi.for_Each",
+            "projectName": "JAVA_d1ac903d"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreesB",
+            "request": "launch",
+            "mainClass": "BinaryTreesB",
+            "projectName": "JAVA_d1ac903d"
+        },
+        {
+            "type": "java",
             "name": "ConnectingCities",
             "request": "launch",
             "mainClass": "ConnectingCities",
